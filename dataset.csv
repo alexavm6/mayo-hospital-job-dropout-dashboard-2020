@@ -1,0 +1,116 @@
+Nombre,Genero,Departamento,Cargo,Estudios,Fecha Nacimiento,Estado,Motivo,Capacitado,Distancia Trabajo,area
+Apolinar Maldonado,Masculino,Archivo,Digitalizador,Tecnologo,16/09/2003,Retirado,Cambio de Ciudad,No,Cerca,Admin
+Zeferino Espinosa,Masculino,Archivo,Archivador,Tecnico,19/12/1994,Activo,,Si,Cerca,Admin
+Yajnu Venegas,Masculino,Asist.,Camillero,Tecnologo,18/09/1976,Activo,,Si,Lejos,Servicios
+Finnian Lopez,Masculino,Asist.,Camillero,Bachiller,10/12/1971,Retirado,Cambio de Ciudad,Si,Cerca,Servicios
+Shirin Bermudez,Femenino,Asist.,Fisioterapeuta,Especializacion,23/08/1987,Activo,,No,Cerca,Servicios
+Anacleto Palma,Masculino,Fx,Asistente Glosas,Tecnico,21/04/1997,Activo,,Si,Cerca,Financiera
+Hayato Luna,Masculino,Fx,Cajero,Bachiller,16/12/1967,Activo,,No,Cerca,Financiera
+Sanjaya Ponce,Masculino,Fx,Contador,Especializacion,01/11/1991,Activo,,Si,Cerca,Financiera
+Kunti Olivera,Femenino,Farmacia,Farmaceutico,Especializacion,28/01/1977,Activo,,No,Muy Lejos,Servicios
+Filemon Ledesma,Masculino,RH,Asistente TH,Tecnologo,10/11/2004,Activo,,Si,Lejos,Admin
+Demetrio Flores,Masculino,RH,Ejecutivo Financiero,Profesional,12/03/1991,Retirado,Nuevo Trabajo,No,Cerca,Admin
+Yazid Maidana,Masculino,RH,Ejecutivo Financiero,Profesional,22/04/1975,Activo,,Si,Cerca,Admin
+Yajnu Miranda,Masculino,TI,Asistente Sistemas,Profesional,08/10/1993,Retirado,Cambio de Ciudad,Si,Cerca,Admin
+Canek Paez,Masculino,Archivo,Digitalizador,Bachiller,17/08/1970,Retirado,Cambio de Ciudad,Si,Lejos,Admin
+Edelmiro Orellana,Masculino,Archivo,Archivador,Tecnologo,27/01/1978,Activo,,Si,Cerca,Admin
+Levi Gomez,Masculino,Archivo,Archivador,Tecnologo,26/05/1977,Retirado,Cambio de Ciudad,No,Lejos,Admin
+Jaime Barrios,Masculino,Archivo,Digitalizador,Tecnologo,22/09/1982,Activo,,No,Lejos,Admin
+Kedara Guerrero,Masculino,Asist.,Instrumentador,Maestria,29/07/1991,Activo,,Si,Cerca,Servicios
+Apsara Juarez,Femenino,Dx,Bacteriologa,Maestria,18/08/1965,Activo,,Si,Lejos,Servicios
+Philippe Rivas,Masculino,Fx,Asistente Cartera,Tecnico,14/01/2001,Retirado,Bajo Rendimiento,No,Lejos,Financiera
+Heraclio Jara,Masculino,Fx,Auditor Medico,Profesional,25/12/1964,Activo,,No,Cerca,Financiera
+Isidoro Ortiz,Masculino,Asist.,Asistente Enfermeria,Tecnologo,16/05/1966,Activo,,No,Cerca,Servicios
+Rafaela Mansilla,Femenino,Asist.,Enfermer@ Jefe,Profesional,25/08/1990,Retirado,Nuevo Trabajo,Si,Cerca,Servicios
+Lorenzo Lopez,Masculino,Fx,Coordinador Facturacion,Tecnico,05/04/1990,Activo,,No,Cerca,Financiera
+Xochitl Rivera,Femenino,Farmacia,Coordinador Almacen,Tecnologo,28/02/1981,Retirado,Cambio de Ciudad,Si,Muy Lejos,Servicios
+Kinna una,Masculino,Mtto,Tecnologo Biomedico,Tecnologo,02/02/1988,Retirado,Nuevo Trabajo,No,Cerca,Admin
+Ingo Gonzalez,Masculino,RH,Ejecutivo Financiero,Especializacion,09/04/1991,Retirado,Cambio de Ciudad,No,Lejos,Admin
+Gustavo Britez,Masculino,Archivo,Digitalizador,Tecnico,27/02/1967,Activo,,Si,Cerca,Admin
+Joaquin Ortega,Masculino,Archivo,Archivador,Tecnologo,16/07/1971,Activo,,Si,Cerca,Admin
+Gabino Fernandez,Masculino,Asist.,Camillero,Tecnico,16/04/1967,Retirado,Cambio de Ciudad,No,Lejos,Servicios
+Nehemias Flores,Masculino,Dietetica,Lavaplatos,Bachiller,08/02/2005,Retirado,Nuevo Trabajo,Si,Lejos,Servicios
+Ashuin Sanchez,Masculino,Dietetica,Jefe de Cocina,Tecnico,26/04/1978,Activo,,No,Cerca,Servicios
+Gerardo Soto,Masculino,Farmacia,Farmaceutico,Especializacion,10/12/1981,Activo,,No,Muy Lejos,Servicios
+Eleazar Miranda,Masculino,Mtto,Aseador,Tecnico,08/01/2002,Retirado,Bajo Rendimiento,No,Muy Lejos,Admin
+Carmina Benitez,Femenino,RH,Asistente TH,Tecnico,03/05/1995,Activo,,No,Cerca,Admin
+Leilani Soria,Femenino,TI,Asistente Sistemas,Profesional,15/07/1967,Retirado,Nuevo Trabajo,Si,Cerca,Admin
+Abraham Vazquez,Masculino,Asist.,Camillero,Tecnologo,24/11/2004,Retirado,Nuevo Trabajo,No,Lejos,Servicios
+Kankuro Cede,Masculino,Asist.,Enfermer@ Jefe,Maestria,26/03/1963,Retirado,Cambio de Ciudad,No,Cerca,Servicios
+Ramiro Luna,Masculino,Fx,Auditor Medico,Especializacion,07/05/1990,Activo,,No,Cerca,Financiera
+Prithu Paredes,Masculino,Mtto,Lavander@s,Tecnico,28/11/1983,Activo,,Si,Cerca,Admin
+Anahi Sepulveda,Femenino,Mtto,Tecnologo Biomedico,Profesional,05/10/1988,Activo,,No,Cerca,Admin
+Arminda Poblete,Femenino,Mtto,Tecnologo Biomedico,Profesional,15/11/1992,Activo,,No,Lejos,Admin
+Bhajan Aguilar,Masculino,RH,Ejecutivo Financiero,Maestria,01/10/1990,Activo,,No,Cerca,Admin
+Jadwiga Leiva,Femenino,RH,Coordinador TH,Maestria,18/02/1966,Activo,,Si,Cerca,Admin
+Yada Reyes,Masculino,,Analista de Datos,Tecnologo,15/07/1999,Activo,,Si,Muy Lejos,Admin
+Baltazar Romero,Masculino,Asistencial,Medico,Maestria,24/08/1970,Activo,-,Si,Cerca,Servicios
+Indira Diaz,Femenino,Asistencial,Enfermera,Profesional,16/05/1980,Activo,-,Si,Cerca,Servicios
+Baldomero Fuentes,Masculino,Asistencial,Anestesiologo,Especializacion,12/03/1964,Activo,-,Si,Cerca,Servicios
+Kriti Salinas,Femenino,Asistencial,Nutricionista,Profesional,25/01/1993,Activo,-,Si,Cerca,Servicios
+Baldomero Romero,Masculino,Archivo,Digitalizador,Bachiller,19/07/1984,Retirado,Bajo Rendimiento,No,Lejos,Admin
+Indira Diaz,Femenino,Archivo,Archivadora,Bachiller,14/09/1978,Activo,-,Si,Cerca,Admin
+Baldomero Fuentes,Masculino,Farmacia,Quimico Farmaceutico,Profesional,08/04/1982,Activo,-,Si,Cerca,Servicios
+Kriti Salinas,Femenino,Farmacia,Ayudante de Farmacia,Bachiller,11/02/2000,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Romero,Masculino,Financiera,Asistente Contable,Tecnico,29/05/1998,Activo,-,Si,Cerca,Financiera
+Indira Diaz,Femenino,Financiera,Cajera,Bachiller,12/08/1985,Activo,-,No,Cerca,Financiera
+Baldomero Fuentes,Masculino,Mantenimiento,Electricista,Tecnico,03/07/1972,Activo,-,Si,Muy Lejos,Admin
+Kriti Salinas,Femenino,Mantenimiento,Plomero,Bachiller,20/09/1994,Activo,-,Si,Cerca,Admin
+Baldomero Romero,Masculino,Recursos Humanos,Asistente de Recursos Humanos,Bachiller,14/02/2002,Activo,-,No,Cerca,Admin
+Indira Diaz,Femenino,Recursos Humanos,Reclutadora,Profesional,17/03/1989,Activo,-,Si,Cerca,Admin
+Baldomero Fuentes,Masculino,TI,Soporte Tecnico,Tecnico,01/04/1975,Activo,-,Si,Cerca,Admin
+Kriti Salinas,Femenino,TI,Analista de Datos,Profesional,15/06/1991,Activo,-,Si,Cerca,Admin
+Baldomero Romero,Masculino,Asistencial,Camillero,Bachiller,28/08/1968,Retirado,Jubilacion,No,Cerca,Servicios
+Indira Diaz,Femenino,Asistencial,Auxiliar de Enfermeria,Bachiller,24/10/1972,Retirado,Discapacidad,Si,Cerca,Servicios
+Baldomero Fuentes,Masculino,Asistencial,Medico,Especializacion,07/12/1966,Retirado,Cambio de Ciudad,Si,Cerca,Servicios
+Kriti Salinas,Femenino,Asistencial,Fisioterapeuta,Profesional,03/02/1983,Retirado,Nuevo Trabajo,Si,Cerca,Servicios
+Baldomero Romero,Masculino,Archivo,Digitalizador,Bachiller,19/03/1987,Retirado,Bajo Rendimiento,No,Cerca,Admin
+Indira Diaz,Femenino,Archivo,Archivadora,Bachiller,25/05/1975,Retirado,Jubilacion,Si,Cerca,Admin
+Baldomero Fuentes,Masculino,Farmacia,Quimico Farmaceutico,Profesional,11/07/1985,Retirado,Nuevo Trabajo,Si,Cerca,Servicios
+Kriti Salinas,Femenino,Farmacia,Ayudante de Farmacia,Bachiller,17/09/1997,Retirado,Cambio de Ciudad,Si,Cerca,Servicios
+Baldomero Romero,Masculino,Financiera,Asistente Contable,Tecnico,23/11/1999,Retirado,Bajo Rendimiento,No,Cerca,Financiera
+Indira Diaz,Femenino,Financiera,Cajera,Bachiller,06/01/1988,Retirado,Nuevo Trabajo,No,Cerca,Financiera
+Baldomero Fuentes,Masculino,Mantenimiento,Electricista,Tecnico,12/03/1974,Retirado,Jubilacion,Si,Cerca,Admin
+Kriti Salinas,Femenino,Mantenimiento,Plomero,Bachiller,18/05/1996,Retirado,Bajo Rendimiento,No,Cerca,Admin
+Baldomero Romero,Masculino,Recursos Humanos,Asistente de Recursos Humanos,Bachiller,24/07/2001,Retirado,Nuevo Trabajo,No,Lejos,Admin
+Indira Diaz,Femenino,Recursos Humanos,Reclutadora,Profesional,09/09/1990,Activo,-,Si,Lejos,Admin
+Baldomero Fuentes,Masculino,TI,Soporte Tecnico,Tecnico,25/11/1976,Activo,-,Si,Lejos,Admin
+Kriti Salinas,Femenino,TI,Analista de Datos,Profesional,10/01/1992,Activo,-,Si,Lejos,Admin
+Baldomero Romero,Masculino,Asistencial,Medico,Especializacion,16/03/1969,Retirado,Jubilacion,Si,Muy Lejos,Servicios
+Indira Diaz,Femenino,Asistencial,Enfermera,Profesional,22/05/1981,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Fuentes,Masculino,Asistencial,Anestesiologo,Especializacion,08/07/1965,Retirado,Cambio de Ciudad,Si,Muy Lejos,Servicios
+Kriti Salinas,Femenino,Asistencial,Nutricionista,Profesional,14/09/1993,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Romero,Masculino,Archivo,Digitalizador,Bachiller,20/11/1986,Retirado,Bajo Rendimiento,No,Lejos,Admin
+Indira Diaz,Femenino,Archivo,Archivadora,Bachiller,27/01/1979,Activo,-,Si,Lejos,Admin
+Baldomero Fuentes,Masculino,Farmacia,Quimico Farmaceutico,Profesional,13/03/1983,Retirado,Nuevo Trabajo,Si,Muy Lejos,Servicios
+Kriti Salinas,Femenino,Farmacia,Ayudante de Farmacia,Bachiller,19/05/1999,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Romero,Masculino,Financiera,Asistente Contable,Tecnico,25/07/2000,Retirado,Bajo Rendimiento,No,Lejos,Financiera
+Indira Diaz,Femenino,Financiera,Cajera,Bachiller,10/09/1989,Activo,-,No,Lejos,Financiera
+Baldomero Fuentes,Masculino,Mantenimiento,Electricista,Tecnico,26/11/1977,Retirado,Jubilacion,Si,Lejos,Admin
+Kriti Salinas,Femenino,Mantenimiento,Plomero,Bachiller,11/01/1995,Retirado,Bajo Rendimiento,No,Lejos,Admin
+Baldomero Romero,Masculino,Recursos Humanos,Asistente de Recursos Humanos,Bachiller,17/03/2002,Retirado,Nuevo Trabajo,No,Lejos,Admin
+Indira Diaz,Femenino,Recursos Humanos,Reclutadora,Profesional,23/05/1991,Activo,-,Si,Lejos,Admin
+Baldomero Fuentes,Masculino,TI,Soporte Tecnico,Tecnico,09/07/1978,Activo,-,Si,Lejos,Admin
+Kriti Salinas,Femenino,TI,Analista de Datos,Profesional,15/09/1994,Activo,-,Si,Lejos,Admin
+Baldomero Romero,Masculino,Asistencial,Medico,Especializacion,21/11/1970,Retirado,Jubilacion,Si,Muy Lejos,Servicios
+Indira Diaz,Femenino,Asistencial,Enfermera,Profesional,28/01/1982,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Fuentes,Masculino,Asistencial,Anestesiologo,Especializacion,14/03/1966,Retirado,Cambio de Ciudad,Si,Muy Lejos,Servicios
+Kriti Salinas,Femenino,Asistencial,Nutricionista,Profesional,20/05/1995,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Romero,Masculino,Archivo,Digitalizador,Bachiller,26/07/1987,Retirado,Bajo Rendimiento,No,Cerca,Admin
+Indira Diaz,Femenino,Archivo,Archivadora,Bachiller,11/09/1980,Activo,-,Si,Cerca,Admin
+Baldomero Fuentes,Masculino,Farmacia,Quimico Farmaceutico,Profesional,27/11/1984,Retirado,Nuevo Trabajo,Si,Cerca,Servicios
+Kriti Salinas,Femenino,Farmacia,Ayudante de Farmacia,Bachiller,12/01/2000,Retirado,Bajo Rendimiento,No,Cerca,Servicios
+Baldomero Romero,Masculino,Financiera,Asistente Contable,Tecnico,18/03/2001,Retirado,Bajo Rendimiento,No,Cerca,Financiera
+Indira Diaz,Femenino,Financiera,Cajera,Bachiller,24/05/1990,Activo,-,No,Cerca,Financiera
+Baldomero Fuentes,Masculino,Mantenimiento,Electricista,Tecnico,10/07/1979,Activo,-,Si,Cerca,Admin
+Kriti Salinas,Femenino,Mantenimiento,Plomero,Bachiller,16/09/1996,Activo,-,Si,Cerca,Admin
+Baldomero Romero,Masculino,Recursos Humanos,Asistente de Recursos Humanos,Bachiller,22/11/2002,Retirado,Nuevo Trabajo,No,Lejos,Admin
+Indira Diaz,Femenino,Recursos Humanos,Reclutadora,Profesional,29/01/1992,Activo,-,Si,Lejos,Admin
+Baldomero Fuentes,Masculino,TI,Soporte Tecnico,Tecnico,15/03/1980,Activo,-,Si,Lejos,Admin
+Kriti Salinas,Femenino,TI,Analista de Datos,Profesional,21/05/1997,Activo,-,Si,Lejos,Admin
+Baldomero Romero,Masculino,Asistencial,Medico,Especializacion,27/07/1971,Activo,-,Si,Muy Lejos,Servicios
+Indira Diaz,Femenino,Asistencial,Enfermera,Profesional,12/09/1983,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Fuentes,Masculino,Asistencial,Anestesiologo,Especializacion,28/11/1985,Activo,-,Si,Muy Lejos,Servicios
+Kriti Salinas,Femenino,Asistencial,Nutricionista,Profesional,13/01/2001,Activo,-,Si,Muy Lejos,Servicios
+Baldomero Romero,Masculino,Archivo,Digitalizador,Bachiller,19/03/1988,Retirado,Bajo Rendimiento,No,Lejos,Admin
+Indira Diaz,Femenino,Archivo,Archivadora,Bachiller,25/05/1981,Activo,-,Si,Lejos,Admin
